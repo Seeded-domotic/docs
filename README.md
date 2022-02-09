@@ -7,5 +7,6 @@ Documentation about appliances, content creators, links to another repos and rev
 
 
 ## Appliances
+[Appliances template](appliances/README.md)
 
 - [Sockets and power relays](appliances/sockets.md)
